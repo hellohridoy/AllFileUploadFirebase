@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "295524969987",
+    "project_id": "uploading-55448",
+    "storage_bucket": "uploading-55448.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:295524969987:android:76ab650b7c6e20c3132836",
+        "android_client_info": {
+          "package_name": "com.example.uploadingvideosaudiopdfdocxtofirebasestorageusingkotlin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "295524969987-83jbbo7t2dvl1mn27rlvigkai8eo5olv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyABOtdqwBVxnjCreiF815ONIM4ownN0l_M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "295524969987-83jbbo7t2dvl1mn27rlvigkai8eo5olv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
